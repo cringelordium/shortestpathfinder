@@ -1,0 +1,3 @@
+/home/cringelord/Desktop/dijkstra_sol/SolutionOfTask/build/CMakeFiles/ShortestPathFinder.dir
+/home/cringelord/Desktop/dijkstra_sol/SolutionOfTask/build/CMakeFiles/edit_cache.dir
+/home/cringelord/Desktop/dijkstra_sol/SolutionOfTask/build/CMakeFiles/rebuild_cache.dir
