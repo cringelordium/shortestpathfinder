@@ -8,5 +8,6 @@
 - Поиск кратчайших путей с помощью BFS
 
 ## Запуск
- cd build
- ./ShortestPathFinder
+cd build
+ 
+./ShortestPathFinder
